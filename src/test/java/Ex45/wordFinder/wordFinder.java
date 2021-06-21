@@ -3,7 +3,14 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
+
+/*
+ *  UCF COP3330 Summer 2021 Assignment 3 Solution
+ *  Copyright 2021 first_name last_name
+ */
 public class wordFinder {
+
+
     // main method
     public static void main(String[] args) throws IOException {
 
