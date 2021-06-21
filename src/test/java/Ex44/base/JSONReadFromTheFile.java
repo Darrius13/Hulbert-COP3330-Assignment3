@@ -3,6 +3,11 @@ import java.io.*;
 import java.util.*;
 import org.json.simple.*;
 
+/*
+ *  UCF COP3330 Summer 2021 Assignment 3 Solution
+ *  Copyright 2021 first_name last_name
+ */
+
 public class JSONReadFromTheFile {
     public static void main(String[] args) {
         //To read json file, first you need to add one external library
